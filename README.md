@@ -18,3 +18,4 @@ This project analyses country-wise COVID-19 data using Python libraries:
 ## How to Run
 1. Clone this repository:
 ```bash
+https://github.com/mohdsaudshareef-crypto/covid19-data-analysis
